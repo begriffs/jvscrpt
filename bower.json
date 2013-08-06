@@ -1,0 +1,16 @@
+{
+  "name": "jvscrpt",
+  "version": "0.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "requirejs": "~2.1.8"
+  },
+  "ignore": [
+    "**/.*",
+    "**/*.json",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
+
